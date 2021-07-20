@@ -1,4 +1,10 @@
-# How to run the CTRL Budget Project
+# About Project
+A simple expense manager website that can be used by all for tracking their
+expenses accordingly. The website can be used to plan out the expenses for a group of
+people. Further, the user can also add bills under the given budget and track his/her
+expenses accordingly.
+
+## How to run the CTRL Budget Project
 1. Download the  zip file
 2. Extract the file and copy Budget folder
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
